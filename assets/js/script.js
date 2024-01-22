@@ -105,5 +105,5 @@ function displaySubtractQuestion() {
 }
 
 function displayMultiplyQuestion() {
-
+    
 }
